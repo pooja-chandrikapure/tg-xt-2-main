@@ -24,22 +24,23 @@
 
             <!-- Title -->
             <h1 class="text-white text-2xl font-bold text-center mb-3 leading-tight">
-                🏆 BANKNIFTY SNIPER BOT (FREE)
+                🏆 TREND FX 🏆
             </h1>
 
             <!-- Sub Text -->
-            <p class="text-yellow-400 text-center text-sm mb-4 font-medium">
-                👉 Join now before access closes
+            <p class="text-white text-center text-sm mb-4 font-medium">
+                <span class="text-red-500">Note -</span>
+                Get Trend Fx free for 15 Days — Start with Star Trader
             </p>
 
             <!-- What You Get -->
             <div class="text-white text-sm mb-3 text-center">
-                <span class="text-blue-400 font-semibold">👉 What You Get:</span>
+                <span class="text-blue-400 font-semibold">👉 Key Features:</span>
             </div>
 
             <div class="space-y-2 text-white text-sm text-center">
-                <div>✅ Clear Entry & Exit Points (Entry, Target, Stoploss)</div>
-                <div>✅ No Guesswork – Fully System-Based Trading</div>
+                <div>✅ 15+ Years Backtested Data</div>
+                <div>✅ Live ID & Password available to check performance</div>
                 
             </div>
 
